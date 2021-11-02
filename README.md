@@ -1,4 +1,4 @@
-##Oi eu sou o Kaik Selhorst, um novato na area de TI 
+## Oi eu sou o Kaik, um novato na area de TI 
 <!--  TABELAS  -->
 <div align="left">
   <a href="https://github.com/KaikSelhorst">
