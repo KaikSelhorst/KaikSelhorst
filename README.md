@@ -1,3 +1,4 @@
+##Oi eu sou o Kaik Selhorst, um novato na area de TI 
 <!--  TABELAS  -->
 <div align="left">
   <a href="https://github.com/KaikSelhorst">
@@ -11,5 +12,5 @@
 </div>
   
   ##
-  
+<!-- COBRINHA   -->
   ![Snake animation](https://github.com/KaikSelhorst/KaikSelhorst/blob/output/github-contribution-grid-snake.svg)
