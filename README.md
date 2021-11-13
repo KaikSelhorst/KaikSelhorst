@@ -5,7 +5,7 @@
     <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikSelhorst&layout=compact&theme=nord&hide_border=none&locale=pt-br&card_width=250px"/>
   </a>
   
-   <img src="https://media4.giphy.com/media/R7m04yMaGWVeE/giphy.gif" width="100px">
+   <img align="center" src="https://media4.giphy.com/media/R7m04yMaGWVeE/giphy.gif" width="100px">
   
 </div>
 <!--  ICONES -->
