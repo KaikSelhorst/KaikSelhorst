@@ -4,9 +4,6 @@
     <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=KaikSelhorst&count_private=true&show_icons=true&theme=nord&hide_border=none&locale=pt-br"/>
     <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikSelhorst&layout=compact&theme=nord&hide_border=none&locale=pt-br&card_width=250px"/>
   </a>
-  
-   <img align="center" src="https://media4.giphy.com/media/R7m04yMaGWVeE/giphy.gif" width="140px">
-  
 </div>
 <!--  ICONES -->
 <div align="center"style="display: inline_block"><br>
@@ -21,4 +18,7 @@
   ![Snake animation](https://github.com/KaikSelhorst/KaikSelhorst/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-  
+
+<div align="center">
+  <img  src="https://media4.giphy.com/media/R7m04yMaGWVeE/giphy.gif" >
+</div>
