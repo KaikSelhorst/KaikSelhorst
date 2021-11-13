@@ -20,7 +20,3 @@
   ![Snake animation](https://github.com/KaikSelhorst/KaikSelhorst/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-<div align="center">
-  <img  src="https://media4.giphy.com/media/R7m04yMaGWVeE/giphy.gif" >
-</div>
