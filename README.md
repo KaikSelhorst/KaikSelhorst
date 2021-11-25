@@ -1,11 +1,11 @@
 <!--  TABELAS  -->
-<div align="left">
+ <div align="left">
    <img  align="right" src="https://media4.giphy.com/media/R7m04yMaGWVeE/giphy.gif" >
   <a href="https://github.com/KaikSelhorst">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaikSelhorst&count_private=true&show_icons=true&theme=nord&hide_border=none&locale=pt-br"/><br>
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaikSelhorst&count_private=true&show_icons=true&theme=nord&hide_border=none&locale=pt-br"/><br>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikSelhorst&layout=compact&theme=nord&hide_border=none&locale=pt-br&card_width=250px"/>
-  </a>
-</div>
+  </a> -->
+</div> 
 
 <!--  ICONES -->
  <div align="left"style="display: inline_block"><br>
