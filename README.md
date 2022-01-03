@@ -1,9 +1,7 @@
-<div style="display:inline_block;" align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaikSelhorst&count_private=true&show_icons=true&theme=nord&hide_border=none&locale=pt-br&hide_rank=none&hide_title=none"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikSelhorst&layout=compact&theme=nord&hide_border=none&locale=pt-br&card_width=250px"/> </div>
-
-<div>
-  <p>Name ➤ Kaik<br>
+<div align="center">
   Programmer ➤ Front-End</p>
   <p>Language ➤
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="24" align="center" />
