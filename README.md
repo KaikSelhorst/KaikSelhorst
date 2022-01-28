@@ -4,7 +4,7 @@
 <br>
 <img align="right" src="https://c.tenor.com/DoMP0hX2pq4AAAAM/snoopy-snow-day.gif" />
 <div align="left">
-  <p>Programmer ➤ Front-End <br>
+  <h4>Programmer ➤ Front-End <br>
   Languages ➤
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="26" align="center" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"  width="26" align="center" /> <br>
