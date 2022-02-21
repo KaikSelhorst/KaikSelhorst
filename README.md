@@ -13,7 +13,7 @@ ___
 
 > #### My *Social Media*
  - [Discord](https://discord.com/channels/@me/690249250067841031)
- - [Linkedin](https://linkedin.com.br) (*still do not have*)
+ - [Linkedin](https://www.linkedin.com/in/kaik-selhorst/)
 
 ___
 
@@ -21,7 +21,7 @@ ___
  - [My Wallpaper Pack](https://github.com/KaikSelhorst/Wallpaper)
  - [Arch Gui](https://kaikselhorst.github.io/Arch-Gui/)
  - [Search Bot Site](https://kaikselhorst.github.io/WebSite-for-SearchBot/)
- - [My Home](https://kaikselhorst.github.io/Home/)
+ - [My Home](https://portfolio-e1snox4cr-kaikselhorst.vercel.app/)
 
 ___
 
