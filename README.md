@@ -19,9 +19,9 @@ ___
 
 > #### Some of my most important projects
  - [My Wallpaper Pack](https://github.com/KaikSelhorst/Wallpaper)
- - [Arch Gui](https://kaikselhorst.github.io/Arch-Gui/)
- - [Search Bot Site](https://kaikselhorst.github.io/WebSite-for-SearchBot/)
- - [My Home](https://portfolio-e1snox4cr-kaikselhorst.vercel.app/)
+ - [Arch Gui](https://github.com/KaikSelhorst/Arch-Gui)
+ - [Search Bot Site](https://github.com/KaikSelhorst/WebSite-for-SearchBot)
+ - [My Home](https://github.com/KaikSelhorst/Portfolio)
  - [WebDeveloperTool](https://github.com/KaikSelhorst/WebDeveloperTools)
 
 ___
