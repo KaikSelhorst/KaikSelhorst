@@ -13,7 +13,7 @@ ___
 
 > #### My *Social Media*
  - [Discord](https://discord.com/channels/@me/690249250067841031)
- - [Linkedin](https://www.linkedin.com/in/kaik-selhorst/)
+ - [Linkedin](https://www.linkedin.com/in/kaikselhorst/)
 
 ___
 
