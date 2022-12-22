@@ -29,15 +29,6 @@ ___
 ___
 
 <div align="center">
-  
-  #### My GitHub *Status*
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaikSelhorst&count_private=true&show_icons=true&theme=nord&hide_border=true&locale=pt-br&hide_rank=true&hide_title=true&border_radius=2&card_width=180px&hide=contribs,issues"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikSelhorst&layout=compact&theme=nord&hide_border=true&card_width=230px&hide_title=true"/></div>
-  
-___
-
-<div align="center">
 
   ![Snake animation](https://github.com/KaikSelhorst/KaikSelhorst/blob/output/github-contribution-grid-snake.svg)
 
