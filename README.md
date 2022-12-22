@@ -20,12 +20,10 @@ ___
 ___
 
 > #### Some of my most important projects
- - [My Wallpaper Pack](https://github.com/KaikSelhorst/Wallpaper)
+ - [Wallpaper Pack](https://github.com/KaikSelhorst/Wallpaper)
  - [Arch Gui](https://github.com/KaikSelhorst/Arch-Gui)
- - [Search Bot Site](https://github.com/KaikSelhorst/WebSite-for-SearchBot)
- - [My Home](https://kaikselhorst.vercel.app/)
- - [WebDeveloperTool](https://github.com/KaikSelhorst/WebDeveloperTools)
-
+ - [Clinica Muzy](https://muzy.vercel.app/)
+ - [Personal Website](https://koorst.vercel.app/)
 ___
 
 <div align="center">
