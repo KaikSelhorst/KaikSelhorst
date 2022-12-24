@@ -26,6 +26,10 @@ ___
  - [Personal Website](https://koorst.vercel.app/)
 ___
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaikSelhorst&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaikSelhorst&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaikSelhorst&theme=tokyonight) |
+| :-: | :-: | :-: |
+
+
 <div align="center">
 
   ![Snake animation](https://github.com/KaikSelhorst/KaikSelhorst/blob/output/github-contribution-grid-snake.svg)
