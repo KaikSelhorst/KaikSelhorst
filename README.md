@@ -10,7 +10,6 @@
  - <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width=16 /> Git
  - <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' width=16 /> Github
  - <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' width=16 />  Figma
- - <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg' width=16 />  Adobe XD
 ___ 
 
 > #### My *Social Media*
