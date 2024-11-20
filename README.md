@@ -4,7 +4,7 @@ Hello, I'm Kaik, i'm software developer and in my spare time I develop user inte
 
 ### Other information
 
-- Programming: Vue.js, TypeScript, Svelte
+- Programming: Vue.js, TypeScript, Nextjs
 - Languages: Portuguese, English
 - Citizenship: Brazil
 - Born: July 2, 2005
